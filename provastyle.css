@@ -1,0 +1,58 @@
+.btext {  
+    font-family: 'Quicksand', sans-serif; font-weight: 558;
+    color: #f0f0f0;
+    font-size: x-large;
+}
+.bglobal {
+    width: 560px;
+    height: 725px;
+    border: solid #f0f0f0 2px;
+    margin: 10px;
+    line-height: 70px;
+}
+
+.bup {
+    width:  528px;
+    height: 120px;
+    border: solid #e40893 2px;
+    margin-left: 8px;
+    margin-bottom: 9px;
+    line-height: 120px;
+    color: #e40893;
+}
+
+.bleft {
+    float: left;
+    display: block;
+    width: 288px;
+    height: 360px;
+    border: solid #ade1d2 2px;
+    margin-left: 8px;
+    margin-right: 4px;
+    line-height: 360px;
+    color: #ade1d2;
+
+}
+
+.bright {
+    float: right;
+    width: 215px;
+    height: 360px;
+    border: solid #9dd0eb 2px;
+    margin-left: 4px;
+    margin-right: 8px;
+    line-height: 360px;
+    color: #9dd0eb;
+}
+
+
+.bbot {
+    width:  528px;
+    height: 140px;
+    border: solid #ff9938 2px;
+    margin-top: 380px;
+    margin-left: 8px;
+    margin-bottom: 9px;
+    line-height: 140px;
+    color: #ff9938;
+}
